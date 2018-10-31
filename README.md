@@ -65,9 +65,6 @@ Click on the following link to see the Code in Action:
 
 * scikit-learn Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/scikit-learn-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783989485 ) [[Amazon]](https://www.amazon.com/dp/1783989483)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Kevin Jolly**
@@ -75,28 +72,8 @@ is a formally educated data scientist with a master's degree in data science fro
 
 Kevin is also the author of a book titled Hands-On Data Visualization with Bokeh, published by Packt. He is the editor-in-chief of Linear, a weekly online publication on data science software and products. 
 
-****
-0
-
-****
-0
-
-****
-0
-
-****
-0
-
 ## Other books by the authors
 [Hands-On Data Visualization with Bokeh](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-visualization-bokeh?utm_source=github&utm_medium=repository&utm_campaign=9781789135404 )
-
-[]()
-
-[]()
-
-[]()
-
-[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
