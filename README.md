@@ -52,8 +52,6 @@ With the following software and hardware list you can run all code files present
 | 6 | Pandas (0.23.4) Scikit-learn (= 0.20.0) Tree (Latest) NumPy (= 1.15.1) ydotplus (= 2.0.2) IL (= 5.3.0) | Windows, Mac OS X |
 | 7 | Pandas (= 0.23.4) Scikit-learn (= 0.20.0) | Windows, Mac OS X |
 | 8 | Pandas (= 0.23.4) Scikit-learn (= 0.20.0) Scikit-plot (= 0.3.7) | Windows, Mac OS X |
-|  |  | Windows, Mac OS X |
-|  |  | Windows, Mac OS X |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
