@@ -53,7 +53,12 @@ With the following software and hardware list you can run all code files present
 | 7 | Pandas (= 0.23.4) Scikit-learn (= 0.20.0) | Windows, Mac OS X |
 | 8 | Pandas (= 0.23.4) Scikit-learn (= 0.20.0) Scikit-plot (= 0.3.7) | Windows, Mac OS X |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
+## Code in Action
+
+Click on the following link to see the Code in Action:
+
+[http://bit.ly/2OcWIGH](http://bit.ly/2OcWIGH)
+
 
 ### Related products
 * Python Machine Learning Blueprints - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-blueprints-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788994170 ) [[Amazon]](https://www.amazon.com/dp/B07JLMHWRG)
