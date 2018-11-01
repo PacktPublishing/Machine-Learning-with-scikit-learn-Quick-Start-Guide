@@ -10,11 +10,11 @@ This is the code repository for [Machine Learning with scikit-learn Quick Start 
 Scikit-learn is a robust machine learning library for the Python programming language. It provides a set of supervised and unsupervised learning algorithms. This book is the easiest way to learn how to deploy, optimize, and evaluate all of the important machine learning algorithms that scikit-learn provides.
 
 This book covers the following exciting features:
-Learn how to work with all scikit-learn's machine learning algorithms 
-Install and set up scikit-learn to build your first machine learning model 
-Employ Unsupervised Machine Learning Algorithms to cluster unlabelled data into groups 
-Perform classification and regression machine learning 
-Use an effective pipeline to build a machine learning project from scratch 
+* Learn how to work with all scikit-learn's machine learning algorithms 
+* Install and set up scikit-learn to build your first machine learning model 
+* Employ Unsupervised Machine Learning Algorithms to cluster unlabelled data into groups 
+* Perform classification and regression machine learning 
+* Use an effective pipeline to build a machine learning project from scratch 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789343704) today!
 
